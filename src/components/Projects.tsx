@@ -11,8 +11,8 @@ const projects = [
         description: "A modern web application built with React and TypeScript",
         image: kontruksiImg,
         github: "https://github.com/Gilbertt1214/kontruksi-rumah",
-        live: "kontruksi-rumah.vercel.app",
-        tags: ["React", "TypeScript", "Threejs","Vite"],
+        live: "https://kontruksi-rumah.vercel.app/",
+        tags: ["React", "TypeScript", "Threejs", "Vite"],
     },
     {
         title: "Flutter",
